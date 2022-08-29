@@ -1,2 +1,2 @@
 # Math-Quize-Game
-A Simple math quiz game
+An unexecutable Simple math quiz game
